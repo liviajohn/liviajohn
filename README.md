@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm currently a second-year student and Kennesaw State University. I enjoy diving into various programming languages and frameworks to create efficient and reliable applications. Whether it's web development, mobile apps, or exploring the realms of machine learning and artificial intelligence, I'm always eager to learn and contribute.
+
+Currently, I'm honing my skills in software development through hands-on projects and coursework, aiming to make a positive impact in the tech industry.
+
+Outside of coding, you can find me exploring new trails, practicing yoga, or diving into a good book.
+
 <!--
 **liviajohn/liviajohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
