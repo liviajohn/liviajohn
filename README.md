@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently a second-year student and Kennesaw State University. I enjoy diving into various programming languages and frameworks to create efficient and reliable applications. Whether it's web development, mobile apps, or exploring the realms of machine learning and artificial intelligence, I'm always eager to learn and contribute.
+I'm currently a second-year student at Kennesaw State University. I enjoy diving into various programming languages and frameworks to create efficient and reliable applications. Whether it's web development, mobile apps, or exploring the realms of machine learning and artificial intelligence, I'm always eager to learn and contribute.
 
 Currently, I'm honing my skills in software development through hands-on projects and coursework, aiming to make a positive impact in the tech industry.
 
