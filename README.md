@@ -1,4 +1,4 @@
-Hi there! I'm Livia John.
+Hi there!
 
 I'm a student currently pursuing Software Engineering. I enjoy learning new programming languages and frameworks to create efficient and reliable applications. Whether it's web development, mobile apps, or exploring machine learning and artificial intelligence, I'm always eager to learn and contribute.
 
