@@ -1,6 +1,6 @@
 Hi there!
 
-I'm a student currently pursuing Software Engineering. I enjoy learning new programming languages and frameworks to create efficient and reliable applications. Whether it's web development, mobile apps, or exploring machine learning and artificial intelligence, I'm always eager to learn and contribute.
+I'm a student currently pursuing Software Engineering. While I'm still honing my expertise, I'm enthusiastic about crafting efficient and dependable applications, whether it's in web development, mobile apps, or delving into the realms of machine learning and artificial intelligence.
 
 Currently, I'm improving my skills in software development through hands-on projects and coursework, aiming to make a positive impact in the tech industry.
 
