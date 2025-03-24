@@ -10,6 +10,6 @@ While you're here, check out my projects, experiences and [LinkedIn](https://www
 
 ## 🧠 Women in Data Science Datathon Project
 
-**WiDS 2025 Machine Learning Challenge Project (Break Through Tech AI Program):**  
-Check out my team's project repository for the WiDS 2025 Datathon, where we used fMRI data to predict an individual’s sex and ADHD diagnosis as part of a challenge titled *"Unraveling the Mysteries of the Female Brain: Sex Patterns in ADHD."*  
+**WiDS 2025 Machine Learning Challenge Project *"Unraveling the Mysteries of the Female Brain: Sex Patterns in ADHD."*  **  
+Check out my team's project repository for the WiDS 2025 Datathon, where we used fMRI data to predict an individual’s sex and ADHD diagnosis.
 [🔗 View the project on GitHub](https://github.com/anniezhang27/WiDS-AI-Studio--Team-Brainwave/tree/main)
