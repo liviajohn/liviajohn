@@ -4,7 +4,9 @@ Currently, I'm improving my skills in software development, machine learning and
 
 As excited as I am to learn, I also love to inspire, motivate and collaborate with others to celebrate even the smallest victories. I've experienced this as a tutor for elementary students and as a fellow in the Break Through Tech AI program, where I've had the chance to grow alongside others and share in their success. 
 
-While you're here, check out my projects, experiences and [LinkedIn](https://www.linkedin.com/in/livia-mary-john/)
+While you're here, check out my projects, experiences and [LinkedIn](https://www.linkedin.com/in/livia-mary-john/)  
+
+<br>
 
 ## 🧠 Women in Data Science Datathon Project
 
